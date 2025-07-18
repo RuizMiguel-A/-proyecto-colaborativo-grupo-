@@ -1,6 +1,6 @@
  • Quién eres
 
-Soy Miguel Angel Ruiz Estela estudiante de Desarrollo de software en senati.
+Soy Miguel Angel Ruiz Estela estudiante de Desarrollo de software en senati a punto de entrar a 4to ciclo.
 
  • Qué estudias
 
