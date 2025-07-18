@@ -1,4 +1,4 @@
-#-Proyecto colaborativo_
+#-Proyecto colaborativo-
 
 Nombres e integrantes
 
