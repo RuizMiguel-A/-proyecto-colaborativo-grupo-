@@ -1,9 +1,14 @@
 
 Nombres e integrantes
+
 -Cesar Martel
+
 -Felix Torre
+
 -Miguel Ruiz
+
 -Sebastian Rosas
+
 Breve descripción del proyecto
 
 
