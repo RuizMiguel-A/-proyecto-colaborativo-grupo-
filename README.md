@@ -1,6 +1,9 @@
 # -proyecto-colaborativo-grupo-
 Nombres e integrantes
-
+-Miguel Ruiz 
+-
+-
+-
 
 Breve descripción del proyecto
 
