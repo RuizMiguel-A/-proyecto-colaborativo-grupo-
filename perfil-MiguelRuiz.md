@@ -4,7 +4,7 @@ Soy Miguel Angel Ruiz Estela estudiante de Desarrollo de software en senati a pu
 
  • Qué estudias
 
- Estudio la carrera de Desarrollo de software(IV ciclo)
+ Estudio la carrera de Desarrollo de software en Senati(IV ciclo)
 
  • Habilidades actuales en programación
 
