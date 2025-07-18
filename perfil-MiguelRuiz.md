@@ -1,11 +1,11 @@
- • Quién eres
+ • Quién eres?
 
 Soy Miguel Angel Ruiz Estela estudiante de Desarrollo de software en senati a punto de entrar a 4to ciclo.
 
  • Qué estudias
 
- Estudio la carrera de Desarrollo de software(IV ciclo)
-
+ Estudio la carrera de Desarrollo de software en Senati(IV ciclo)
+.
  • Habilidades actuales en programación
 
 Lenguajes/Conociminetos: HTML5, CSS, Java,
@@ -29,4 +29,4 @@ Lenguajes/Conociminetos: HTML5, CSS, Java,
 
  • Qué esperas aprender usando GitHub
 
- A trabajar de manera correcta podiendo compartir soluciones a problemas de algun proyecto futuro y que nos permite avanzar de una manera mas efectica con su desarrollo. 
+ A trabajar de manera correcta podiendo compartir soluciones a problemas de algun proyecto futuro y que nos permite avanzar de una manera mas efectica con su desarrollo, enere otras cosas mas. 

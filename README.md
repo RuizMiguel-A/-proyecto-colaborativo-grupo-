@@ -1,6 +1,9 @@
 # -proyecto-colaborativo-grupo-
 Nombres e integrantes
-
+-Miguel Ruiz 
+-Cesar Martel
+-Sebastian Rosas
+-Felix Torres
 
 Breve descripción del proyecto
 
