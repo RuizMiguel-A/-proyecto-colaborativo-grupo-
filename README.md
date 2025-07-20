@@ -74,4 +74,4 @@ Resiliencia frente a errores o bloqueos durante el desarrollo
 
 🌐 Enlace al sitio publicado
 
-👉 https://ruizmiguel-a.github.io/-proyecto-colaborativo-grupo-3/
+👉 https://ruizmiguel-a.github.io/proyecto-colaborativo-grupo-3/
