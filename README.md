@@ -1,63 +1,77 @@
-📁 Proyecto Colaborativo – Sitio Web de Restaurante
-
 👥 Integrantes del grupo
 
- -Cesar Martel – @CesarMartel
+-Cesar Martel – @CesarMartel
 
- -Felix Torre – @usuario2025-cod
+-Felix Torre – @usuario2025-cod
 
- -Sebastian Rosas – @SebastianRC15
+-Sebastian Rosas – @SebastianRC15
 
- -Miguel Ruiz – @RuizMiguel-A
+-Miguel Ruiz – @RuizMiguel-A
+
+-Nicolaz Meza – @NicolazMeza
 
 📝 Descripción del proyecto
-El proyecto consiste en la creación de un sitio web para un restaurante, 
-desarrollado de forma colaborativa utilizando Git y GitHub. Cada integrante trabajó desde su propia rama,
- integrando los cambios mediante Pull Requests, lo cual nos permitió aplicar buenas prácticas de control de versiones y trabajo en equipo.
+El proyecto consiste en la creación de un sitio web para un restaurante, desarrollado de forma colaborativa utilizando Git y GitHub.
+Cada integrante trabajó en su propia rama, integrando los cambios mediante Pull Requests, lo cual nos permitió aplicar buenas prácticas de control de versiones y trabajo en equipo.
 
 👨‍🔧 Responsabilidades de cada integrante
-Cesar Martel
 
--Gestión de ramas: creación, cambio y mantenimiento.
+-Cesar Martel
 
--Supervisión del flujo de trabajo en Git.
+Gestión de ramas: creación, cambio y mantenimiento.
 
-Felix Torre
+Supervisión del flujo de trabajo en Git.
 
--Realización de commits efectivos con mensajes descriptivos.
+-Felix Torre
 
--Colaboración mediante apertura, revisión y fusión de Pull Requests.
+Realización de commits efectivos con mensajes descriptivos.
 
-Sebastian Rosas
+Colaboración mediante apertura, revisión y fusión de Pull Requests.
 
--Resolución de conflictos: identificación, comparación y solución de cambios en archivos compartidos.
+-Sebastian Rosas
 
--Coordinación en las integraciones de código.
+Resolución de conflictos: identificación, comparación y solución de cambios en archivos compartidos.
 
-Miguel Ruiz
+Coordinación en las integraciones de código.
 
--Despliegue del proyecto a través de GitHub Pages.
+-Miguel Ruiz
 
--Organización y publicación del repositorio final.
+Creación del repositorio en GitHub y asignación de permisos a los colaboradores.
+
+Creación de la rama principal para la página web.
+
+Despliegue del proyecto a través de GitHub Pages.
+
+Organización y publicación del repositorio final.
+
+-Nicolaz Meza
+
+Edición de archivos HTML y CSS del sitio web.
+
+Integración de contenido visual y pruebas funcionales.
+
+Revisión de cambios antes del despliegue final.
 
 ⚠️ Conflictos surgidos y cómo los resolvimos
- Conflicto: Acceso denegado al momento de subir ramas al repositorio.
 
- Solución: El propietario del repositorio otorgó permisos a los colaboradores para permitir el trabajo en equipo y la subida de cambios.
+Conflicto: Acceso denegado al momento de subir ramas al repositorio.
+
+Solución: El propietario del repositorio otorgó permisos a los colaboradores para permitir el trabajo en equipo y la subida de cambios.
 
 🧠 Habilidades demostradas como grupo
- Coordinación y planificación de tareas
 
- Comunicación efectiva en entornos de desarrollo
+Coordinación y planificación de tareas
 
- Resolución colaborativa de conflictos
+Comunicación efectiva en entornos de desarrollo
 
- Colaboración en entornos de control de versiones (Git y GitHub)
+Resolución colaborativa de conflictos
 
- Adaptabilidad ante problemas técnicos
+Colaboración en entornos de control de versiones (Git y GitHub)
 
- Resiliencia frente a errores o bloqueos durante el desarrollo
+Adaptabilidad ante problemas técnicos
 
- 🌐 Enlace al sitio publicado
+Resiliencia frente a errores o bloqueos durante el desarrollo
 
-👉https://ruizmiguel-a.github.io/-proyecto-colaborativo-grupo-/
+🌐 Enlace al sitio publicado
+
+👉 https://ruizmiguel-a.github.io/-proyecto-colaborativo-grupo-/
